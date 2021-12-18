@@ -1,5 +1,5 @@
 {
-  "name": "personality-assesment",
+  "name": "nextjs-assessment",
   "private": true,
   "scripts": {
     "dev": "next dev",
